@@ -1,6 +1,6 @@
 # Introduction
 
-Working sliding panels for the content boxes usin jQuery.
+Working sliding panels for the content boxes using jQuery.
 1. The paragraphs start hidden.
 2. The paragraphs show and hide when their headings are clicked.
 3. This process should take 3 seconds.
